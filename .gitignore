@@ -1,2 +1,2 @@
-*.json
-*.md
+package.json
+README.md
