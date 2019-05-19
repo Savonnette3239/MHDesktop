@@ -1,5 +1,5 @@
 # MHDesktop
-Magic Hitler revient avec une application plus rapide, stable, complète et simple d'utilisation !
+MH revient avec une application plus rapide, stable, complète et simple d'utilisation !
 
 ## Inscription
 Vous remarquerez assez vite que vous n'avez accès à aucune des fonctionnalités de l'application. Pour débloquer les plus simples, il vous suffit de créer un compte. Pour ce faire, cliquez sur le bouton "S'enregistrer", situé en bas de la page d'accueil.<br/>
