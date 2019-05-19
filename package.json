@@ -3,6 +3,7 @@
   "discord": "https://discord.gg/5DFBp4q",
   "files": {
     "app": "https://github.com/magichitler/MHDesktop/raw/0.0.1/MHDesktop_0.0.1.zip",
-    "newtonsoft": "https://github.com/magichitler/MHDesktop/raw/0.0.1/Newtonsoft.Json.zip"
+    "newtonsoft": "https://github.com/magichitler/MHDesktop/raw/0.0.1/Newtonsoft.Json.zip",
+    "icon": "https://github.com/magichitler/MHDesktop/raw/0.0.1/icon.zip"
   }
 }
