@@ -1,8 +1,8 @@
 {
   "version": "0.0.1",
   "discord": "https://discord.gg/5DFBp4q",
-  "files": [
-    "https://github.com/magichitler/MHDesktop/raw/0.0.1/MHDesktop_0.0.1.zip",
-    "https://github.com/magichitler/MHDesktop/raw/0.0.1/Newtonsoft.Json.zip"
-  ]
+  "files": {
+    "app": "https://github.com/magichitler/MHDesktop/raw/0.0.1/MHDesktop_0.0.1.zip",
+    "newtonsoft": "https://github.com/magichitler/MHDesktop/raw/0.0.1/Newtonsoft.Json.zip"
+  }
 }
