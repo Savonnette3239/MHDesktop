@@ -4,6 +4,7 @@
   "files": {
     "app": "https://github.com/magichitler/MHDesktop/raw/0.0.1/MHDesktop_0.0.1.zip",
     "newtonsoft": "https://github.com/magichitler/MHDesktop/raw/0.0.1/Newtonsoft.Json.zip",
-    "icon": "https://github.com/magichitler/MHDesktop/raw/0.0.1/icon.zip"
+    "icon": "https://github.com/magichitler/MHDesktop/raw/0.0.1/icon.zip",
+    "launcher": "https://github.com/magichitler/MHDesktop/raw/0.0.1/MHDesktopLauncher.zip"
   }
 }
